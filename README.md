@@ -25,5 +25,8 @@ A scalable social media backend built with **Node.js (Express)**,**Mongodb (Mong
 - **RabbitMQ**
 - **Docker & Docker Compose**
 - **JWT Authentication**
+- **Joi Validation**
+- **Wiston (Logging)**
+- **Rate limit**
   
 
